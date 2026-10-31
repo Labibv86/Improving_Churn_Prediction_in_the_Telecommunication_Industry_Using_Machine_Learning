@@ -1,4 +1,4 @@
-# 📊 Improving Churn Prediction in the Telecommunication Industry Using Machine Learning
+# Improving Churn Prediction in the Telecommunication Industry Using Machine Learning
 
 A machine learning study on telecom customer churn prediction using the **Cell2Cell** benchmark dataset, with a systematic literature review, careful preprocessing, and a comparative evaluation of seven classifiers under realistic cross validation.
 
